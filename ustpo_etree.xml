@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v45-2014-04-03.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.5 2014-04-03" file="USD0836880-20190101.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20181217" date-publ="20190101">
+<!--1root1-->
+	<!--2root-->
+	<us-bibliographic-data-grant>
+		<!--3root-->
+		<publication-reference>
+			<!--4root-->
+			<document-id>
+				<!--5root-->
+				<country>US</country>
+				<doc-number>D0836880</doc-number>
+				<kind>S1</kind>
+				<date>20190101</date>
+			</document-id>
+		</publication-reference>
+
+		<application-reference appl-type="design">
+			<document-id>
+				<country>US</country>
+				<doc-number>29589598</doc-number>
+				<date>20170103</date>
+			</document-id>
+		</application-reference>
+
+		<us-parties>
+			<inventors>
+				<inventor sequence="001" designation="us-only">
+					<addressbook>
+						<last-name>Kreamer</last-name>
+						<first-name>Marc</first-name>
+						<address>
+							<city>Delray Beach</city>
+							<state>FL</state>
+							<country>US</country>
+						</address>
+					</addressbook>
+				</inventor>
+			</inventors>
+		</us-parties>
+
+		<assignees>
+			<assignee>
+				<addressbook>
+					<orgname>Spectrum, Brands Inc.</orgname>
+					<role>02</role>
+						<address>
+						<city>Middleton</city>
+						<state>WI</state>
+						<country>US</country>
+						</address>
+				</addressbook>
+
+			</assignee>
+			<assignee>
+				<addressbook>
+					<orgname>Spectrum, Brands Inc.</orgname>
+					<role>02</role>
+						<address>
+							<city>Middleton</city>
+							<state>WI</state>
+							<country>CN</country>
+						</address>
+				</addressbook>
+
+			</assignee>
+		</assignees>
+	</us-bibliographic-data-grant>
+</us-patent-grant>
